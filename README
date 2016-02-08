@@ -1,0 +1,5 @@
+Test data repository for pyqtgraph.
+
+The images in this repository are used to perform tests to ensure the graphical consistency of output for pyqtgraph.
+
+See pyqtgraph/tests/image_tester.py for more information about using image-based testing.
